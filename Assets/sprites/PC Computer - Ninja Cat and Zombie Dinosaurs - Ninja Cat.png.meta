@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: 07c46782ccb583140895d54fe8f171b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4743238288833095939
+    second: PC Computer - Ninja Cat and Zombie Dinosaurs - Ninja Cat_0
+  - first:
+      213: -967303946250611431
+    second: PC Computer - Ninja Cat and Zombie Dinosaurs - Ninja Cat_1
+  - first:
+      213: -5789972448622763300
+    second: PC Computer - Ninja Cat and Zombie Dinosaurs - Ninja Cat_2
+  - first:
+      213: 3881343420474086691
+    second: PC Computer - Ninja Cat and Zombie Dinosaurs - Ninja Cat_3
+  - first:
+      213: -211481593557959152
+    second: PC Computer - Ninja Cat and Zombie Dinosaurs - Ninja Cat_4
+  - first:
+      213: -2309168801021360266
+    second: PC Computer - Ninja Cat and Zombie Dinosaurs - Ninja Cat_5
+  - first:
+      213: -7571901651935775707
+    second: PC Computer - Ninja Cat and Zombie Dinosaurs - Ninja Cat_6
+  - first:
+      213: -7949235762368623895
+    second: PC Computer - Ninja Cat and Zombie Dinosaurs - Ninja Cat_7
+  - first:
+      213: 3636983657799534341
+    second: PC Computer - Ninja Cat and Zombie Dinosaurs - Ninja Cat_8
+  - first:
+      213: -1125879947150694674
+    second: PC Computer - Ninja Cat and Zombie Dinosaurs - Ninja Cat_9
+  - first:
+      213: 3084414737792435827
+    second: PC Computer - Ninja Cat and Zombie Dinosaurs - Ninja Cat_10
+  - first:
+      213: -9138770745299116507
+    second: PC Computer - Ninja Cat and Zombie Dinosaurs - Ninja Cat_11
+  - first:
+      213: 5493267681388597262
+    second: PC Computer - Ninja Cat and Zombie Dinosaurs - Ninja Cat_12
+  - first:
+      213: -6955487326395512333
+    second: PC Computer - Ninja Cat and Zombie Dinosaurs - Ninja Cat_13
+  - first:
+      213: -8313760828820503544
+    second: PC Computer - Ninja Cat and Zombie Dinosaurs - Ninja Cat_14
+  - first:
+      213: -3511460332503119106
+    second: PC Computer - Ninja Cat and Zombie Dinosaurs - Ninja Cat_15
+  - first:
+      213: 5179680399225546220
+    second: PC Computer - Ninja Cat and Zombie Dinosaurs - Ninja Cat_16
+  - first:
+      213: -6054554453522038977
+    second: PC Computer - Ninja Cat and Zombie Dinosaurs - Ninja Cat_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Ninja Cat and Zombie Dinosaurs - Ninja Cat_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 120
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6521538e1ac2eb0800000000000000
+      internalID: -4743238288833095939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ninja Cat and Zombie Dinosaurs - Ninja Cat_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 60
+        width: 22
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91516e59f227392f0800000000000000
+      internalID: -967303946250611431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ninja Cat and Zombie Dinosaurs - Ninja Cat_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 120
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2aa8c0cb2e5afa0800000000000000
+      internalID: -5789972448622763300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ninja Cat and Zombie Dinosaurs - Ninja Cat_3
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 120
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32558a4d64d4dd530800000000000000
+      internalID: 3881343420474086691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ninja Cat and Zombie Dinosaurs - Ninja Cat_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 90
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01eb1737c9aa01df0800000000000000
+      internalID: -211481593557959152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ninja Cat and Zombie Dinosaurs - Ninja Cat_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 90
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67705b0c53f24ffd0800000000000000
+      internalID: -2309168801021360266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ninja Cat and Zombie Dinosaurs - Ninja Cat_6
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 90
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524bc22b0933be690800000000000000
+      internalID: -7571901651935775707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ninja Cat and Zombie Dinosaurs - Ninja Cat_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eacf24e034aea190800000000000000
+      internalID: -7949235762368623895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ninja Cat and Zombie Dinosaurs - Ninja Cat_8
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507ca010e59297230800000000000000
+      internalID: 3636983657799534341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ninja Cat and Zombie Dinosaurs - Ninja Cat_9
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 60
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6e85a37221060f0800000000000000
+      internalID: -1125879947150694674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ninja Cat and Zombie Dinosaurs - Ninja Cat_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3760912bcda0eca20800000000000000
+      internalID: 3084414737792435827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ninja Cat and Zombie Dinosaurs - Ninja Cat_11
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 33
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ed6ba2d609c2180800000000000000
+      internalID: -9138770745299116507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ninja Cat and Zombie Dinosaurs - Ninja Cat_12
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 32
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e001d450ad10c3c40800000000000000
+      internalID: 5493267681388597262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ninja Cat and Zombie Dinosaurs - Ninja Cat_13
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 34
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9c67ed025297f90800000000000000
+      internalID: -6955487326395512333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ninja Cat and Zombie Dinosaurs - Ninja Cat_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804c89a03969f9c80800000000000000
+      internalID: -8313760828820503544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ninja Cat and Zombie Dinosaurs - Ninja Cat_15
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efac64e9e69c44fc0800000000000000
+      internalID: -3511460332503119106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ninja Cat and Zombie Dinosaurs - Ninja Cat_16
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce564e541ebe1e740800000000000000
+      internalID: 5179680399225546220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ninja Cat and Zombie Dinosaurs - Ninja Cat_17
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f3f8c8dc6e9fba0800000000000000
+      internalID: -6054554453522038977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
